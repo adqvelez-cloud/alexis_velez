@@ -1,5 +1,5 @@
 function sum(a, b) {
-  return a - b; // Error intencional para validar las pruebas
+  return a + b;
 }
 
 function multiply(a, b) {
